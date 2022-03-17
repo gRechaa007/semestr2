@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (task3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.c
+C:\Users\admin\source\repos\task3\task3\main.c(15,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  task3.vcxproj -> C:\Users\admin\source\repos\task3\Debug\1.exe

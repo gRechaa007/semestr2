@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\admin\source\repos\aud14\aud14.4\main.c(35,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\aud14\aud14.4\main.c(20): warning C4716: sort: должна возвращать значение
+  aud14.4.vcxproj -> C:\Users\admin\source\repos\aud14\x64\Debug\aud14.4.exe

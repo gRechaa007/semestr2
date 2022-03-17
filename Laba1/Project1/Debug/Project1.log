@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.c
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\admin\source\repos\Laba1\Debug\aud7(1).exe : fatal error LNK1120: неразрешенных внешних элементов: 1

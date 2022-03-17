@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (laba2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.c
+C:\Users\admin\source\repos\laba2\laba2\main.c(26,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\admin\source\repos\laba2\laba2\main.c(78,15): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  laba2.vcxproj -> C:\Users\admin\source\repos\laba2\Debug\laba1.exe
