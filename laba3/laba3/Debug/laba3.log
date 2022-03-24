@@ -1,8 +1,0 @@
-﻿  main.c
-C:\Users\admin\source\repos\laba3\laba3\main.c(24,24): warning C4047: =: "int" отличается по уровням косвенного обращения от "char *"
-C:\Users\admin\source\repos\laba3\laba3\main.c(28,17): warning C4013: countStr: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\admin\source\repos\laba3\laba3\main.c(32,16): warning C4013: replace: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\admin\source\repos\laba3\laba3\main.c(33,12): warning C4477: "printf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
-C:\Users\admin\source\repos\laba3\laba3\main.c(34,8): warning C4022: free: несоответствие указателя для фактического параметра 1
-main.obj : error LNK2019: ссылка на неразрешенный внешний символ _countStr в функции _main.
-C:\Users\admin\source\repos\laba3\Debug\laba3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

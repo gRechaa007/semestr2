@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (aud10.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  main.c
-C:\Users\admin\source\repos\aud10\aud10\main.c(12,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\admin\source\repos\aud10\aud10\main.c(39,9): error C2065: ty_jopa: необъявленный идентификатор

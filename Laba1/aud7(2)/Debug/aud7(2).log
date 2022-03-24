@@ -1,8 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (aud7(2).vcxproj, laba pr.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  main.c
-C:\Users\admin\source\repos\Laba1\aud7(2)\main.c(19,21): warning C4244: функция: преобразование "__int64" в "int", возможна потеря данных
-C:\Users\admin\source\repos\Laba1\aud7(2)\main.c(21,17): warning C4244: функция: преобразование "__int64" в "int", возможна потеря данных
-C:\Users\admin\source\repos\Laba1\aud7(2)\main.c(36,12): warning C4244: функция: преобразование "__int64" в "int", возможна потеря данных
-C:\Users\admin\source\repos\Laba1\aud7(2)\main.c(46,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\admin\source\repos\Laba1\aud7(2)\main.c(82,15): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
-  aud7(2).vcxproj -> C:\Users\admin\source\repos\Laba1\Debug\laba 1.exe

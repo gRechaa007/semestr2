@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\admin\source\repos\aud10\Project16\main.c(9,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
-  Project16.vcxproj -> C:\Users\admin\source\repos\aud10\x64\Debug\Project16.exe
