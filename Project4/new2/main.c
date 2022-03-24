@@ -5,25 +5,19 @@
 
 int numberTransition(int n, int i, int a)
 {
-
 	global_counter++;
-
-
 	if (a == 1)
 	{
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 8);
 			numberTransition(n, i + 1, 6);
-
 		}
 	}
 	else if (a == 2)
 	{
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 7);
 			numberTransition(n, i + 1, 9);
 		}
@@ -32,7 +26,6 @@ int numberTransition(int n, int i, int a)
 	{
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 4);
 			numberTransition(n, i + 1, 8);
 		}
@@ -41,7 +34,6 @@ int numberTransition(int n, int i, int a)
 	{
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 3);
 			numberTransition(n, i + 1, 9);
 			numberTransition(n, i + 1, 0);
@@ -51,7 +43,6 @@ int numberTransition(int n, int i, int a)
 	{
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 1);
 			numberTransition(n, i + 1, 7);
 			numberTransition(n, i + 1, 0);
@@ -61,7 +52,6 @@ int numberTransition(int n, int i, int a)
 	{
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 2);
 			numberTransition(n, i + 1, 6);
 		}
@@ -73,7 +63,6 @@ int numberTransition(int n, int i, int a)
 			return;
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 1);
 			numberTransition(n, i + 1, 3);
 		}
@@ -82,7 +71,6 @@ int numberTransition(int n, int i, int a)
 	{
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 4);
 			numberTransition(n, i + 1, 2);
 		}
@@ -94,7 +82,6 @@ int numberTransition(int n, int i, int a)
 			return;
 		if (i <= n)
 		{
-			//global_counter++;
 			numberTransition(n, i + 1, 4);
 			numberTransition(n, i + 1, 6);
 		}
