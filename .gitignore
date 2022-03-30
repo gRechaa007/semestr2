@@ -1,11 +1,12 @@
-/text_select
-/laba 2 1 sem
-/Project1
-/Project4
-/task3
-/passvord
-/sometask
-/2 semestr/text _sort 0,75/text _select.vcxproj.user
-/2 semestr/text _sort 0,75/text _select.vcxproj.filters
-/2 semestr/text _sort 0,75/text _select.vcxproj
-/2 semestr/text _sort 0,75/CppProperties.json
+text_select
+laba 2 1 sem
+Project1
+Project4
+task3
+passvord
+sometask
+2 semestr/text _sort 0,75/text _select.vcxproj.user
+2 semestr/text _sort 0,75/text _select.vcxproj.filters
+2 semestr/text _sort 0,75/text _select.vcxproj
+2 semestr/text _sort 0,75/CppProperties.json
+2.txt
