@@ -1,4 +1,0 @@
-﻿  operat.c
-C:\Users\admin\source\repos\Лабораторная работа 2\Project2\operat.c(7,6): warning C4101: number: неиспользованная локальная переменная
-C:\Users\admin\source\repos\Лабораторная работа 2\Project2\operat.c(23): warning C4716: matrix: должна возвращать значение
-  Project2.vcxproj -> C:\Users\admin\source\repos\Лабораторная работа 2\Debug\Project2.exe
