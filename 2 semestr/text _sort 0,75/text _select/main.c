@@ -6,30 +6,44 @@
 int main()
 {
 	FILE* book;
-	int size = 0;
+	int size = 1;
 	char symbol;
 	char* text[100] = { 0 };
+	char** text = (char**)malloc(20 * sizeof(char*));
+	int i = 0;
 	if (fopen_s(&book, "book.txt", "r"))
 		perror("");
 	else
 	{
 		while (fscanf_s(book, "%c", &symbol, 1) != EOF)
 		{
-			size++;
+			++i;
+			if (symbol == '\n') 
+			{
+				size++;
+				char* text[size] = (char*)malloc(size * sizeof(char));
+				i = 0;
+			}
+				
 		}
 	}
-	char** text = (char**)malloc(size * sizeof(char*));
+	/*char** text = (char**)malloc(size * sizeof(char*));
+	for (int i = 0; i < size;i++)
+	{
+		char* text[i] = (char*)malloc()
+	}*/
 
-	/*
-	printf_s("%d", size);*/
+	
+	printf_s("%d", size);
 	_fcloseall();
 }
 
 char split_text(char** text)
 {
+	
 	int i = 0;
 	int j = 0;
-	char* str = {0}
+	char* str = { 0 };
 	while (text[i] != '\0')
 	{
 		while (text[i] != '\n')
@@ -84,9 +98,6 @@ char** splitStr(char* str, char split_symbol, int memory, int* string_counter)
 	}
 	return arr;
 }
-‘айл не выбран
-≈щЄ
-
 
 
 
