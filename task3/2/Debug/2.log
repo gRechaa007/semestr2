@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\admin\source\repos\task3\2\main.c(18,8): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
-  2.vcxproj -> C:\Users\admin\source\repos\task3\Debug\2.exe

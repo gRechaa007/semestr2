@@ -1,12 +1,34 @@
-text_select
-laba 2 1 sem
-Project1
-Project4
-task3
-passvord
-sometask
-2 semestr/text _sort 0,75/text _select.vcxproj.user
-2 semestr/text _sort 0,75/text _select.vcxproj.filters
-2 semestr/text _sort 0,75/text _select.vcxproj
-2 semestr/text _sort 0,75/CppProperties.json
-2.txt
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+2.1 semestr
