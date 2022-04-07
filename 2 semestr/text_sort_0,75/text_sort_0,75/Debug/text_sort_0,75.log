@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\admin\source\repos\2 semestr\text_sort_0,75\text_sort_0,75\main.c(79,25): warning C4047: !=: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\admin\source\repos\2 semestr\text_sort_0,75\text_sort_0,75\main.c(81,20): warning C4047: =: "char" отличается по уровням косвенного обращения от "char *"
+C:\Users\admin\source\repos\2 semestr\text_sort_0,75\text_sort_0,75\main.c(86): warning C4716: split_text: должна возвращать значение
+  text_sort_0,75.vcxproj -> C:\Users\admin\source\repos\2 semestr\text_sort_0,75\Debug\text_sort_0,75.exe
