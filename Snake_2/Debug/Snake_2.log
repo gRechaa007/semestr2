@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\admin\source\repos\Snake_2\main.c(227,24): warning C4087: EndTextureMode: объявление с "void"-списком параметров
+  Snake_2.vcxproj -> C:\Users\admin\source\repos\Snake_2\Debug\Snake_2.exe

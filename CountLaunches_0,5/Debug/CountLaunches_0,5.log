@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(11,47): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(11,53): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(11,49): warning C4024: RegCreateKeyExW: различные типы для формального и фактического параметров 3
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(14,36): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(14,56): warning C4133: функция: несовместимые типы - из "unsigned long *" в "LPBYTE"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(26,34): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(26,40): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(26,36): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(26,59): warning C4133: функция: несовместимые типы - из "unsigned long *" в "const BYTE *"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(30,34): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(30,40): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(30,36): warning C4024: RegSetValueExW: различные типы для формального и фактического параметров 3
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(30,59): warning C4133: функция: несовместимые типы - из "unsigned long *" в "const BYTE *"
+C:\Users\admin\source\repos\CountLaunches_0,5\main.c(10,1): warning C4133: инициализация: несовместимые типы - из "unsigned short [6]" в "char *"
+  CountLaunches_0,5.vcxproj -> C:\Users\admin\source\repos\CountLaunches_0,5\Debug\CountLaunches_0,5.exe

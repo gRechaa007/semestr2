@@ -1,0 +1,3 @@
+C:\Users\admin\source\repos\paint_1\Debug\paint_1.vcxproj.CopyComplete
+C:\Users\admin\source\repos\paint_1\Debug\paint_1.exe
+C:\Users\admin\source\repos\paint_1\Debug\raylib.dll
